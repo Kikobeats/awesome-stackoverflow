@@ -1,5 +1,7 @@
 # StackOverflow Hall of Fame
 
+> The most insane list about things that happens in StackOverflow. 
+
 ## Funny
 
 * [RegEx match open tags except XHTML self-contained tags](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags).
