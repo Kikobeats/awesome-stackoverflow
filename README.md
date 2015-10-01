@@ -1,4 +1,4 @@
-# StackOverflow Hall of Fame
+# Awesome StackOverflow
 
 > The most insane list about things that happens in StackOverflow. 
 
