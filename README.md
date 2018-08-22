@@ -11,7 +11,7 @@
 ## Sarcastic
 
 * [When do you use the “this” keyword?](http://stackoverflow.com/a/23435).
-* [hat's the difference between JavaScript and Java?](http://stackoverflow.com/a/245068).
+* [What's the difference between JavaScript and Java?](http://stackoverflow.com/a/245068).
 
 ## Best explanation
 
